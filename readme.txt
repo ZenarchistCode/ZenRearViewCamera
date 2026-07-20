@@ -4,6 +4,8 @@ This mod adds a rear-view reverse mode camera to vehicles specified in the confi
 
 Intended for use on 1PP (1st person view) servers which run vehicles are difficult to reverse in 1PP view (eg. trucks, humvees, Expansion Bus etc).
 
+Video guide: https://youtu.be/5ZHS4JRCVs0
+
 [h1]Installation Instructions:[/h1]
 
 Install this mod like any other mod - copy it into your server folder and add it to your mods list. Make sure to copy the .bikey into your server keys if you're not using a server management tool like OmegaManager which does that automatically.
